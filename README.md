@@ -1,6 +1,6 @@
 #### Hi there 👋
 
-###### Full Stack developer from India and currently full time freelancer with overall 10+ years experience
+##### Full Stack developer from India and currently full time freelancer with overall 10+ years experience
 
 ##### NOW
 
