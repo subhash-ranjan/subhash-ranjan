@@ -14,7 +14,7 @@
 - GraphQl, REST
 - Docker, AWS ECS, Fargate
 - AWS : EC2, S3, Cloud Front, Route 53, Subnetting, RDB 
-- Serverless : AWS Lambda, GCF, Firebase Function, Serverless Framework
+- Serverless : AWS Lambda, GCF, Firebase Functions, Serverless Framework
 - MongoDB, Firestore, Oracle, MySql, PostgreSQL
 
 ##### Got any requirements/queries?
