@@ -18,5 +18,5 @@
 - MongoDB, Firestore, Oracle, MySql, PostgreSQL
 
 ##### Got any requirements/queries?
-- 💼 Any freelance work? Do reach, [email](mailto:subhash.ranjan2021@gmail.com) :)
+- 💼 Any freelance work? Do reach, [email](mailto:subhash.mukho@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help;
