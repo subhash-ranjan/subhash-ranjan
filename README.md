@@ -5,7 +5,7 @@
 ##### NOW
 
 - Building up expertise on AI/ML, Data science (Python)
-- Expert on NodeJs platform with 4 years' experience (React, Next.Js, React Native).
+- Expert on NodeJs platform with 4 years' experience (React, Next.Js, React Native)
 
 ##### STACK
 
