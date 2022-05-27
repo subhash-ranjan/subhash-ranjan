@@ -12,7 +12,7 @@
 - Javascript/Typescript
 - Node.js, ReactJs, Next.js, React Native, Redux
 - CSS, SASS, Material UI, Tailwind
-- GraphQl, REST, Strapi
+- GraphQL, REST, Strapi
 - Docker, Fargate, Lambda, GCF, Serverless Framework
 - MongoDB, Firestore, PostgreSQL
 - Jest, Mocha, enzyme, Cypress, Detox
