@@ -1,11 +1,11 @@
 #### Hi there 👋
 
-##### Full Stack developer from India and currently full time freelancer with overall 11 years of experience.
+##### Full Stack developer from India and currently full time freelancer with overall 11 years of experience including 7 years of experince in MNC.
 
 ##### NOW
 
 - Building up expertise on AI/ML, Data science (Python)
-- Expert on NodeJs platform with 4 years' experience (React, Next.Js, React Native)
+- Expert on NodeJs platform with 4 years of experience (React, Next.Js, React Native)
 
 ##### STACK
 
