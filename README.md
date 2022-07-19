@@ -1,6 +1,6 @@
 #### Hi there 👋
 
-##### Full Stack developer from India and currently full time freelancer with overall 11 years of experience including 7 years of experince in MNC.
+##### I am a Full Stack Developer and currently a full time freelancer with an overall 11 years of experience including 7 years of industry experience in managing, designing, and developing applications.
 
 ##### NOW
 
