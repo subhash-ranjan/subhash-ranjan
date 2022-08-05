@@ -14,7 +14,7 @@ def StupidFunction(n):
                     print("I am stupid")
 ```
 
-I can tell the time complexity for the the above such code with my eyes closed..kidding ;)
+I can tell the time complexity for above such code with my eyes closed..kidding ;)
 
 If you have any of the following or any other works, I will be doing for peanuts if not for free because I am broke :)
 1. Html update
