@@ -28,4 +28,4 @@ If you have any of the following or any other works, I will be doing for peanuts
 
 ##### Got any requirements/queries?
 - 💼 Any freelance work? Do reach, [email](mailto:subhash.mukho@gmail.com) :)
-- 💬 Ask me about anything, I am happy to help;
+- 💬 Ask me about anything, I will be happy to help;
