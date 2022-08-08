@@ -1,9 +1,25 @@
-<h1 align="center">Hi 👋, I'm subhash</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi, I'm subhash</h1>
+<h3 align="center">I am a Full Stack Developer and currently a full time freelancer with an overall 11 years of experience including 7 years of industry experience in managing, designing, and developing applications.</h3>
 
 
+##### NOW
 
-- 🔭 I’m currently working on **python**
+- Building up expertise on AI/ML, Data science (Python)
+- Expert on NodeJs platform with 4 years of experience (React, Next.Js, React Native)
+
+
+##### STACK
+
+- Javascript | Typescript
+- Node.js | ReactJs | Next.js | React Native | Redux
+- CSS | SASS | MUI | Tailwind
+- GraphQL | REST | Strapi
+- Docker | Fargate | Lambda | GCF | Serverless Framework
+- MongoDB | Firestore |  PostgreSQL
+- Jest | enzyme | Cypress | Detox
+- OAuth | JWT token
+
+
 
 <h3 align="left">Connect with me:</h3>
 
