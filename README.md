@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm subhash</h1>
-<h3 align="center">I am a Full Stack Developer and currently a full time freelancer with an overall 11 years of experience including 7 years of industry experience in managing, designing, and developing applications.</h3>
+<h3 align="center">Full Stack Developer with 11 years of experience including 7 years of industry experience in managing, designing, and developing applications.</h3>
 
 
 <h3 align="left">NOW</h3>
