@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer with 11 years of experience including 7 years of industry experience in managing, designing, and developing applications.</h3>
 
 
-<h3 align="left">NOW</h3>
+<h3 align="left">NOW:</h3>
 
 <p align="left">
 
@@ -12,7 +12,7 @@
 </p>
 
 
-<h3 align="left">STACKS</h3>
+<h3 align="left">STACKS:</h3>
 
 <p align="left">
 
@@ -27,7 +27,7 @@
 </p>
 
 
-<h3 align="left">CONNECT WITH ME</h3>
+<h3 align="left">CONNECT WITH ME:</h3>
 
 <p align="left">
 
@@ -42,7 +42,7 @@
 
 
 
-<h3 align="left">MY STATS</h3>
+<h3 align="left">MY STATS:</h3>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=subhash-ranjan&label=Profile%20views&color=0e75b6&style=flat" alt="subhash-ranjan" /> 
 </p>
