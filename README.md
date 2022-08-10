@@ -27,7 +27,7 @@
 </p>
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">CONNECT WITH ME</h3>
 
 <p align="left">
 
@@ -42,7 +42,7 @@
 
 
 
-<h3 align="left">My stats:</h3>
+<h3 align="left">MY STATS</h3>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=subhash-ranjan&label=Profile%20views&color=0e75b6&style=flat" alt="subhash-ranjan" /> 
 </p>
