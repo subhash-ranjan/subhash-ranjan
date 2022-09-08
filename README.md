@@ -37,7 +37,7 @@
   <h3 align="left">MY PORTFOLIO:</h3>  https://subhash-portfolio.vercel.app
 
   
-[mail]:mailto:subhash.mukho@gmail.com
+[mail]:mailto:subhash.ranjan2021@gmail.com
 [MY PORTFOLIO]: https://subhash-portfolio.vercel.app/
 </p>
 
