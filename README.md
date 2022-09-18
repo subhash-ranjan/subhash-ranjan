@@ -7,7 +7,7 @@
 <p align="left">
 
 - Building up expertise on AI/ML, Data science (Python)
-- Expert on NodeJs platform with 4 years of experience (React, Next.Js, React Native)
+- Expert on NodeJs platform with 4 and half years of experience (React, Next.Js, React Native)
 
 </p>
 
