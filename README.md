@@ -25,6 +25,7 @@
 - MongoDB | Firestore |  PostgreSQL
 - Jest | enzyme | Cypress | Detox
 - OAuth | JWT token
+- Stack storm
 </p>
 
 
