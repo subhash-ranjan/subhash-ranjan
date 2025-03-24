@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm subhash</h1>
-<h3 align="center">Senior full stack engineer with 12 years of experience in managing, designing, and developing applications.</h3>
+<h3 align="center">Senior full stack engineer with 13 years of experience in managing, designing, and developing applications.</h3>
 
 
 <h3 align="left">NOW:</h3>
@@ -7,7 +7,7 @@
 <p align="left">
 
 - Building up expertise on Python, AI/ML, Data science.
-- Expert on NodeJs platform with 4 and half years of experience (React, Next.Js, React Native).
+- Expert on NodeJs platform with 5 and half years of experience (React, Next.Js, React Native).
 
 </p>
 
@@ -40,7 +40,6 @@
 
   
 [mail]:mailto:subhash.mukho@gmail.com
-[MY PORTFOLIO]: https://subhash-portfolio.vercel.app/
 </p>
 
 
