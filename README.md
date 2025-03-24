@@ -28,17 +28,6 @@
 - Stack storm
 </p>
 
-
-<h3 align="left">CONNECT WITH ME:</h3>
-
-<p align="left">
-
-  
-[mail]:mailto:subhash.mukho@gmail.com
-</p>
-
-
-
 <h3 align="left">MY STATS:</h3>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=subhash-ranjan&label=Profile%20views&color=0e75b6&style=flat" alt="subhash-ranjan" /> 
